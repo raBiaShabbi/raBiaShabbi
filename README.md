@@ -1,7 +1,7 @@
 # Hello, World! 🌟
 
 ## About Me
-- 👋 Hi, I’m @raBiaShabbi
+- 👋 Hi, I’m Rabia Shabbir.
 - 👀 I’m interested in programming, web development, and artificial intelligence.
 - 🌱 I’m currently learning C++ and Java.
 - 💞️ I’m looking to collaborate on C++ projects.
